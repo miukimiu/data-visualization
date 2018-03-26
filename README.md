@@ -8,3 +8,7 @@ A curated list of data visualization learning materials and tools for designers 
 - [Color brewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 - [Color scheme](http://wiki.gis.com/wiki/index.php/Color_scheme)
 - [Your Friendly Guide to Colors in Data Visualisation](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/)
+
+## Design Best Practices
+- [Data Visualization 101: How to Design Charts and Graphs](https://cdn2.hubspot.net/hub/53/file-863940581-pdf/Data_Visualization_101_How_to_Design_Charts_and_Graphs.pdf)
+- [Data Visualization 101: How to Choose the Right Chart or Graph for Your Data](https://blog.hubspot.com/marketing/types-of-graphs-for-data-visualization)
